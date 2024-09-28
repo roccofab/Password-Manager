@@ -36,20 +36,20 @@ When you launch the application, you will first see the home window with three o
 - Login(Open Login Window)
 - Close(Close Application)
 <p align="center">
-<img src="C:\Users\lenovo\Desktop\java\AccountsManagementSystem\screenshots\StartWindow.png" width="40%">
+<img src="https://github.com/roccofab/Password-Manager/blob/master/screenshots/RegisterWindow.png" width="40%">
 </p>
 
 ## Register Window
 When you register a new user with a username that already exists, you will get an error because the Domain-Password data recovery process
 in Domains.xml is based on the user's username. If Registration is successful Main Window will be displayed.
 <p align="center">
-<img src="C:\Users\lenovo\Desktop\java\AccountsManagementSystem\screenshots\RegisterWindow.png" width="35%">
+<img src="https://github.com/roccofab/Password-Manager/blob/master/screenshots/RegisterWindow.png" width="35%">
 </p>
 
 ## Login Window
 If Login is successful, then MainWindow will be displayed.
 <p align="center">
-<img src="C:\Users\lenovo\Desktop\java\AccountsManagementSystem\screenshots\LoginWindow.png" width="30%">
+<img src="https://github.com/roccofab/Password-Manager/blob/master/screenshots/LoginWindow.png" width="30%">
 </p>
 
 ## Main Window
@@ -58,10 +58,10 @@ After logging in, you will reach the main window where all the name of domains a
 - Add Button: This button let open an Add new Password Window, the Main Window will be disabled until you finish add a new password.
 - Close Button: Button to return to the Home Window
 <p align="center">
-<img src="C:\Users\lenovo\Desktop\java\AccountsManagementSystem\screenshots\MainWindow.png" width="30%">
+<img src="https://github.com/roccofab/Password-Manager/blob/master/screenshots/MainWindow.png" width="30%">
 </p>
 
 ## Add New Password Window
 <p align="center">
-<img src = "C:\Users\lenovo\Desktop\java\AccountsManagementSystem\screenshots\AddPasswordWindow.png" width="30%">
+<img src = "https://github.com/roccofab/Password-Manager/blob/master/screenshots/AddPasswordWindow.png" width="30%">
 </p>
