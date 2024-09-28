@@ -34,7 +34,7 @@ When you launch the application, you will first see the home window with three o
 - Login(Open Login Window)
 - Close(Close Application)
 <p align="center">
-<img src="https://github.com/roccofab/Password-Manager/blob/master/screenshots/RegisterWindow.png" width="40%">
+<img src="https://github.com/roccofab/Password-Manager/blob/master/screenshots/StartWindow.png" width="40%">
 </p>
 
 ## Register Window
