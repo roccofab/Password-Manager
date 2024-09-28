@@ -28,9 +28,7 @@ and store data to XML files: The login class contains methods to save and retrie
 methods to save and retrieve domain-password from Domains.xml about a specific user who is identified by the username.
 The appController class acts as the main controller of the application, managing the logic between the model components and the graphical interface.
 
-# Windows
 
-## Home window
 When you launch the application, you will first see the home window with three options:
 - Register(Open Registration Window)
 - Login(Open Login Window)
@@ -65,3 +63,14 @@ After logging in, you will reach the main window where all the name of domains a
 <p align="center">
 <img src = "https://github.com/roccofab/Password-Manager/blob/master/screenshots/AddPasswordWindow.png" width="30%">
 </p>
+
+# Task Ideas
+- Fix bugs and issues
+- Modify the UI.
+- Investigate how multiple accounts can be registered with the same username.
+- Add features for backup user data or domain-password data.
+- Add a feature that allow user to change their login password.
+- Add a feature that allow user to change his password of a domain.
+- Add a sort feature for the domains.
+- Modify data storage: instead of using XML files, use a database to store all the info about users and their domains-password.
+- Add safer security features.
